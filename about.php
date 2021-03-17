@@ -7,7 +7,7 @@ include('include/header.php');
 					<picture>
 						<source srcset="img/about.jpg" media="(min-width: 992px)"/><img class="img--bg" src="img/about.jpg" alt="img"/>
 					</picture>
-					<div class="promo-primary__description"> <span>Donation</span></div>
+					<div class="promo-primary__description"> <span>Donation 1</span></div>
 					<div class="container">
 						<div class="row">
 							<div class="col-auto">
